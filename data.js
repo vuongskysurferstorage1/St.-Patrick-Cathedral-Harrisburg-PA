@@ -28,9 +28,9 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "pitch": 0,
         "yaw": 0,
-        "fov": 1.5707963267948966
+        "pitch": 0,
+        "fov": 1.4134061960355204
       },
       "linkHotspots": [
         {
@@ -106,8 +106,8 @@ var APP_DATA = {
           "target": "2-st-patrick-cathedral-harrisburg-pa"
         },
         {
-          "yaw": -0.6222089759242664,
-          "pitch": -0.09534451036505232,
+          "yaw": -0.6201928305091453,
+          "pitch": -0.10294363295211895,
           "rotation": 0,
           "target": "3-st-patrick-cathedral-harrisburg-pa"
         }
@@ -551,7 +551,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
